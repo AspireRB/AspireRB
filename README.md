@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![til](https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png](https://github.com/AspireRB/AspireRB/blob/main/dino.gif)
+![til](https://github.com/AspireRB/AspireRB/blob/main/dino.gif)
 
 <!--
 **AspireRB/AspireRB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
